@@ -1,0 +1,31 @@
+
+
+.lobster-font {
+    font-family: 'Lobster', cursive;
+}
+
+.icon-img {
+    max-width: 100px;
+}
+
+@media screen and (min-width : 775px )
+{
+    .left-255 {
+        left: 100px;
+    }
+
+    .right-255 {
+        right: 100px;
+    }
+}
+
+@media screen and (min-width : 1000px )
+{
+    .left-255 {
+        left: 255px;
+    }
+
+    .right-255 {
+        right: 255px;
+    }
+}
